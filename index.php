@@ -70,7 +70,7 @@
 					<h2>Stable</h2>
 					<p>
 						<a href="http://local.wordpress.dev/">
-							<img width="150" src="dashboard-custom/wapuu/wapuu-archive/original-wapuu.png"/>
+							<img width="40%" style="margin-top: 10%" src="dashboard-custom/wapuu/wapuu-archive/original-wapuu.png"/>
 						</a>
 					</p>
 					<p>WordPress stable</p>
@@ -80,7 +80,7 @@
 					<h2>Trunk</h2>
 					<p>
 						<a href="http://local.wordpress-trunk.dev/">
-							<img width="150" src="dashboard-custom/wapuu/wapuu-archive/scott-wapuu.png"/>
+							<img width="50%" src="dashboard-custom/wapuu/wapuu-archive/scott-wapuu.png"/>
 						</a>
 					</p>
 					<p>WordPress trunk</p>
@@ -90,7 +90,7 @@
 					<h2>Develop</h2>
 					<p>
 						<a href="http://src.wordpress-develop.dev/">
-							<img width="150" src="dashboard-custom/wapuu/wapuu-archive/wct2013.png"/>
+							<img width="50%" src="dashboard-custom/wapuu/wapuu-archive/wct2013.png"/>
 						</a>
 					</p>
 					<p>WordPress development files</p>
@@ -100,7 +100,7 @@
 					<h2>Build</h2>
 					<p>
 						<a href="http://build.wordpress-develop.dev/">
-							<img width="150" src="dashboard-custom/wapuu/wapuu-archive/wct2012.png"/>
+							<img width="50%" src="dashboard-custom/wapuu/wapuu-archive/wct2012.png"/>
 						</a>
 					</p>
 					<p>Grunt build of those development files</p>
