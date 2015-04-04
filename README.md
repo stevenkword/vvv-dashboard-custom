@@ -1,8 +1,8 @@
 # vvv-dashboard-custom
 Bootstrap Dashboard with Random Wapuu
 
-1. Clone to /www/default/dashboard-custom/
-* git clone https://github.com/stevenkword/vvv-dashboard-custom.git dashboard-custom
+Clone to /www/default/dashboard-custom/
+`git clone https://github.com/stevenkword/vvv-dashboard-custom.git dashboard-custom`
 
 1. Move /www/default/dashboard-custom/dashboard-custom.php to /www/default/dashboard-custom.php
 * mv dashboard-custom/dashboard-custom.php dashboard-custom.php
