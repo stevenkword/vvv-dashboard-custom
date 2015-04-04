@@ -51,7 +51,7 @@
 				</div>
 			</div>
 
-
+			<hr/>
 
 			<!-- Example row of columns -->
 			<!--
