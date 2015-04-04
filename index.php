@@ -44,6 +44,54 @@
 
 		<div class="container">
 
+			<div class="row">
+				<div class="span12 text-center">
+					<h1>Varying Vagrant Vagrants</h1>
+					<p>Varying Vagrant Vagrants is an evolving Vagrant configuration focused on WordPress development.</p>
+				</div>
+			</div>
+
+
+
+			<!-- Example row of columns -->
+			<!--
+			<div class="row">
+				<div class="span12 text-center">
+					<h2>Stable</h2>
+					<p><img width="150" src="dashboard-custom/wapuu/wapuu-archive/original-wapuu.png"/></p>
+					<p>WordPress stable</p>
+
+				</div>
+			</div>
+			-->
+
+			<div class="row">
+				<div class="span3 text-center">
+					<h2>Stable</h2>
+					<p><img width="150" src="dashboard-custom/wapuu/wapuu-archive/original-wapuu.png"/></p>
+					<p>WordPress stable</p>
+
+				</div>
+				<div class="span3 text-center">
+					<h2>Trunk</h2>
+					<p><img width="150" src="dashboard-custom/wapuu/wapuu-archive/scott-wapuu.png"/></p>
+					<p>WordPress trunk</p>
+
+				</div>
+				<div class="span3 text-center">
+					<h2>Develop</h2>
+					<p><img width="150" src="dashboard-custom/wapuu/wapuu-archive/wct2013.png"/></p>
+					<p>WordPress development files</p>
+
+				</div>
+				<div class="span3 text-center">
+					<h2>Build</h2>
+					<p><img width="150" src="dashboard-custom/wapuu/wapuu-archive/wct2012.png"/></p>
+					<p>Grunt build of those development files</p>
+
+				</div>
+			</div>
+
 			<?php
 			function vvv_get_random_wapuu() {
 				$files = glob('dashboard-custom/wapuu/wapuu-archive/*.png');
@@ -52,28 +100,39 @@
 			}
 			?>
 
+			<!--
 			<div style="float: right; width: 300px; padding: 20px">
 				<img src="<?php echo vvv_get_random_wapuu(); ?>"/>
 			</div>
-
-			<h1>Varying Vagrant Vagrants</h1>
-			<p>Varying Vagrant Vagrants is an evolving Vagrant configuration focused on WordPress development.</p>
-
+			-->
+			<!--
 			<ul>
 				<li><a href="http://local.wordpress.dev/">http://local.wordpress.dev</a> for WordPress stable (www/wordpress-default)</li>
 				<li><a href="http://local.wordpress-trunk.dev/">http://local.wordpress-trunk.dev</a> for WordPress trunk (www/wordpress-trunk)</li>
 				<li><a href="http://src.wordpress-develop.dev/">http://src.wordpress-develop.dev</a> for trunk WordPress development files (www/wordpress-develop/src)</li>
 				<li><a href="http://build.wordpress-develop.dev/">http://build.wordpress-develop.dev</a> for a Grunt build of those development files (www/wordpress-develop/build)</li>
 			</ul>
-
+			-->
+			<!--
 			<h2>WordPress Core</h2>
 
 			<ul>
 				<li><a href="https://make.wordpress.org/core/">https://make.wordpress.org/core/</a> for Make WordPress Core</li>
 				<li><a href="https://core.trac.wordpress.org/browser">https://core.trac.wordpress.org/browser/</a> for Trac Browser</li>
 			</ul>
-
+			-->
 		</div> <!-- /container -->
+
+		<footer>
+		<div class="navbar navbar-fixed-bottom">
+			<div class="navbar-inner">
+			<ul class="nav">
+				<li><a href="https://make.wordpress.org/core/">https://make.wordpress.org/core/</a> for Make WordPress Core</li>
+				<!--<li><a href="https://core.trac.wordpress.org/browser">https://core.trac.wordpress.org/browser/</a> for Trac Browser</li>-->
+			</ul>
+			</div>
+		</div>
+		</footer>
 
 		<!-- Le javascript -->
 		<script src="http://code.jquery.com/jquery.js"></script>
