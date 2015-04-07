@@ -143,7 +143,7 @@
 		<div class="navbar navbar-fixed-bottom">
 			<div class="navbar-inner">
 			<ul class="nav">
-				<li><a href="https://make.wordpress.org/core/">https://make.wordpress.org/core/</a> for Make WordPress Core</li>
+				<li><a href="https://make.wordpress.org/core/">https://make.wordpress.org/core/</a></li>
 				<!--<li><a href="https://core.trac.wordpress.org/browser">https://core.trac.wordpress.org/browser/</a> for Trac Browser</li>-->
 			</ul>
 			</div>
@@ -151,7 +151,8 @@
 		</footer>
 
 		<!-- Le javascript -->
-		<script src="http://code.jquery.com/jquery.js"></script>
+		<script src="dashboard-custom/js/jquery-1.11.2.min.js"></script>
+		<!--<script src="http://code.jquery.com/jquery.js"></script>-->
 		<script src="dashboard-custom/bootstrap/js/bootstrap.min.js"></script>
 
 	</body>
