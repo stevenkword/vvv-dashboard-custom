@@ -6,3 +6,5 @@ Bootstrap Dashboard with Random Wapuu
 
 * Copy /www/default/dashboard-custom/dashboard-custom.php to /www/default/dashboard-custom.php
 `cp dashboard-custom/dashboard-custom.php dashboard-custom.php`
+
+![screenshot](https://github.com/stevenkword/vvv-dashboard-custom/blob/master/screenshot.png "Screenshot")
